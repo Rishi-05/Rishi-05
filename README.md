@@ -7,13 +7,30 @@ from crop recommendation engines to QR-based document security systems, and even
 I'm passionate about using machine learning and backend systems to drive innovation, with hands-on experience across Python, Django, Flask, and deep learning frameworks.
 
 ## 💡 What I Do
+Building smart models for prediction and classification using Machine learning
+Project Management: Leading innovative projects.
+AI Projects: Automating tasks using deep learning, TTS, and computer vision
 
-- **Machine Learning & Deep Learning**  
-  Building models for crop recommendation, animal classification, smile detection, and medical research (breast cancer BI-RADS classification).  
-  Hands-on with **TensorFlow**, **scikit-learn**, **OpenCV**, **spaCy**, and more.
+🌐 **Socials**  
+[LinkedIn](https://www.linkedin.com/in/your-link) | [Instagram](https://www.instagram.com/your-handle)
 
-- **Backend Development with AI & Automation** **  
-  Creating robust and scalable backends using **Django**, **Flask**, **FastAPI**, **PostgreSQL**, **Celery**, **React.js**, **Node.js** ,and **MongoDB**.  
-  Worked extensively with with **TTS**, **face recognition**, **PDF data extraction**, **transfer learning**, and deploying intelligent systems.  
-  Built AI-based chatbots and classification models using **CNN** for computer vision tasks.  
-  Actively exploring **LangChain**, **Hugging Face**, and **LLMs** for smart, context-aware AI applications.
+💻 **Tech Stack**
+
+**Languages:**  
+C, C++, Python, JavaScript, TypeScript, HTML5, CSS3  
+
+**Frontend:**  
+React.js, Next.js, Redux, TailwindCSS, MUI, React Router, React Hook Form, Zod, Chart.js  
+
+**Backend:**  
+Node.js, Express.js, Django, Flask, FastAPI, JWT, Prisma  
+
+**Databases & Cloud:**  
+MongoDB, MySQL, Supabase, Firebase, PostgreSQL, Vercel, Netlify  
+
+**ML/DL & Data Science:**  
+NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow, PyTorch  
+
+**Tools & Platforms:**  
+Git, GitHub, Postman, Twilio, Canva, Figma  
+
