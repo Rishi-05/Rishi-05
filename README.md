@@ -11,11 +11,6 @@ Building smart models for prediction and classification using Machine learning
 Project Management: Leading innovative projects.
 AI Projects: Automating tasks using deep learning, TTS, and computer vision
 
-## 💡 What I Do  
-🔹 Web Development: Crafting responsive, interactive web apps  
-🔹 Machine Learning: Building scalable AI/ML systems using deep learning, computer vision & NLP  
-🔹 Hackathons: Competing and consistently ranking in the top  
-
 ### 🌐 Socials  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourhandle](https://www.instagram.com/rishi_dlr/))[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rishi-chilveri-91a01327b/))
 
