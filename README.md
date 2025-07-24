@@ -12,13 +12,8 @@ I'm passionate about using machine learning and backend systems to drive innovat
   Building models for crop recommendation, animal classification, smile detection, and medical research (breast cancer BI-RADS classification).  
   Hands-on with **TensorFlow**, **scikit-learn**, **OpenCV**, **spaCy**, and more.
 
-- **Backend Development**  
-  Creating robust and scalable backends using **Django**, **Flask**, **FastAPI**, **PostgreSQL**, **Celery**, and **MongoDB**.  
-  Projects include:  
-  - Django Reminder Bot  
-  - Text-to-Audio Web App
-
-- **AI & Automation**  
-  Familiar with **TTS**, **face recognition**, **PDF data extraction**, **transfer learning**, and deploying intelligent systems.  
+- **Backend Development with AI & Automation** **  
+  Creating robust and scalable backends using **Django**, **Flask**, **FastAPI**, **PostgreSQL**, **Celery**, **React.js**, **Node.js** ,and **MongoDB**.  
+  Worked extensively with with **TTS**, **face recognition**, **PDF data extraction**, **transfer learning**, and deploying intelligent systems.  
   Built AI-based chatbots and classification models using **CNN** for computer vision tasks.  
   Actively exploring **LangChain**, **Hugging Face**, and **LLMs** for smart, context-aware AI applications.
