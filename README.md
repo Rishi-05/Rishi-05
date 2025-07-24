@@ -6,8 +6,6 @@ I build intelligent and scalable applications that solve real-world problems —
 from crop recommendation engines to QR-based document security systems, and even reminder bots using Telegram and Django.
 I'm passionate about using machine learning and backend systems to drive innovation, with hands-on experience across Python, Django, Flask, and deep learning frameworks.
 
----
-
 ## 💡 What I Do
 
 - **Machine Learning & Deep Learning**  
@@ -18,18 +16,9 @@ I'm passionate about using machine learning and backend systems to drive innovat
   Creating robust and scalable backends using **Django**, **Flask**, **FastAPI**, **PostgreSQL**, **Celery**, and **MongoDB**.  
   Projects include:  
   - Django Reminder Bot  
-  - ext-to-Audio Web App  
-  - QR Code Generator for document security
+  - Text-to-Audio Web App
 
 - **AI & Automation**  
-  Familiar with **TTS**, **face recognition**, **PDF data extraction**, and deploying intelligent systems.  
-  Actively exploring **LangChain**, **Hugging Face**, and **LLMs** for smart AI applications.
-
----
-
-## Ongoing Work
-
-- Collaborating with faculty on a **research paper** focused on **breast cancer classification using mammograms**  
-- Always learning and experimenting with new frameworks, especially in **AI infrastructure**, **NLP**, and **cloud deployment**
-
----
+  Familiar with **TTS**, **face recognition**, **PDF data extraction**, **transfer learning**, and deploying intelligent systems.  
+  Built AI-based chatbots and classification models using **CNN** for computer vision tasks.  
+  Actively exploring **LangChain**, **Hugging Face**, and **LLMs** for smart, context-aware AI applications.
